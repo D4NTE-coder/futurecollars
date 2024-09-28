@@ -30,26 +30,23 @@ Zwrotka_2
 Zwrotka_2
 
 
-Refren_2
-Refren_2
-Refren_2
-Refren_2
-Refren_2
-Refren_2
-Refren_2
+Refren_1
+Refren_1
+Refren_1
+Refren_1
+Refren_1
+Refren_1
+Refren_1
 
 
-Refren_2
-Refren_2
-
-Refren_2
-Refren_2
-Refren_2
-Refren_2
-Refren_2
-Refren_2
-Refren_2
-Refren_2
+Refren_1
+Refren_1
+Refren_1
+Refren_1
+Refren_1
+Refren_1
+Refren_1
+Refren_1
 
 
 Outro
