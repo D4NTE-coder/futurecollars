@@ -1,0 +1,89 @@
+commit d8a9d896ef5f42793dc12bea018693237646c1d5
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 16:14:33 2024 +0200
+
+    usuniecie powtarzajacego sie refrenu + modyfikacja piosenka.txt
+
+commit 89c1c186dd0f6739e6f776c7fa383b043703e3c8
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 16:09:05 2024 +0200
+
+    przywrocenie lini za popmoca git revert
+
+commit 074fa2827a54e7ff5ae79d1a6f120240e40083f9
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 16:05:12 2024 +0200
+
+    usuniecie lini z refrenu_1
+
+commit 5a3c2f4910649bb5f36ec3968fd132b05282d44b
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 15:56:18 2024 +0200
+
+    usuniecie outro z piosenka.txt oraz przeniesieniedo outro.txt
+
+commit 7d5d5e88202951ae949ad0f0dfed931a47e4a362
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 15:53:29 2024 +0200
+
+    usuniecie refrenu2 z piosenka.txt oraz dodanie go do refren_2.txt
+
+commit 978757b097bc59bf04a4936258db06df764900b0
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 15:45:34 2024 +0200
+
+    przeniesienie tekstu z piosenki.txt do zwrotka_2
+
+commit 2a7510587bef05e2069636caf5b0139212343b60
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 15:43:23 2024 +0200
+
+    zmiana ze wzlegu na moj blad
+
+commit 10c63a0510cf32d0f88dcc4c9dfc6e995e993498
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 15:41:10 2024 +0200
+
+    zmiana nazwy pliku/blad
+
+commit b6ac1aed16f9c55c424af54e466f60a0cfa82a07
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 15:39:18 2024 +0200
+
+    Zmiana nazwy
+
+commit 06d5d1ac08f5818e4fc8a04bb3c7d66adf0e4c7d
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 15:37:11 2024 +0200
+
+    dodanie pliku zwrotka_2 + zastapnienie zwrotki w piosenka.txt
+
+commit 5ee0162d4202a0561a9c7c0d052049de47630064
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 15:19:30 2024 +0200
+
+    przeniesienie refrenu z piosenka.txt do refren_1
+
+commit dd256fff3c0f3febe5747728615146b78dcac35c
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 15:18:52 2024 +0200
+
+    usuniecie lini refrenu z piosenka.txt oraz stworzenie pliku refren_1
+
+commit 99f63c9968f89cce3045bd23dacc7f9e45f2ef48
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 14:31:55 2024 +0200
+
+    zastapienie zwrotki pierwszej nazwa pliku zwrotka_1
+
+commit 412b73defb9c786aa1d575a37a2ae2cbceb73dcc
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 14:26:03 2024 +0200
+
+    przeniesienie zwrotki pierwszej z piosenka.txt do zwrotka_1
+
+commit 716a7a63a56b331bbaf9269cce777cf18572c10f
+Author: Damian Rojek <draxan44@gmail.com>
+Date:   Sat Sep 28 14:05:09 2024 +0200
+
+    dodanie piosenki
